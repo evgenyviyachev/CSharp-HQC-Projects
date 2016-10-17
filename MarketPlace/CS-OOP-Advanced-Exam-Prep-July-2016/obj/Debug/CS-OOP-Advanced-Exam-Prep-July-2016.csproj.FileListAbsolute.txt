@@ -1,0 +1,6 @@
+C:\SoftUni\#1 Programming Fundamentals\C# OOP Advanced\10. CSharp-OOP-Advanced-Sample-Exam\CS-OOP-Advanced-Exam-Prep-July-2016\bin\Debug\CS-OOP-Advanced-Exam-Prep-July-2016.exe.config
+C:\SoftUni\#1 Programming Fundamentals\C# OOP Advanced\10. CSharp-OOP-Advanced-Sample-Exam\CS-OOP-Advanced-Exam-Prep-July-2016\bin\Debug\CS-OOP-Advanced-Exam-Prep-July-2016.exe
+C:\SoftUni\#1 Programming Fundamentals\C# OOP Advanced\10. CSharp-OOP-Advanced-Sample-Exam\CS-OOP-Advanced-Exam-Prep-July-2016\bin\Debug\CS-OOP-Advanced-Exam-Prep-July-2016.pdb
+C:\SoftUni\#1 Programming Fundamentals\C# OOP Advanced\10. CSharp-OOP-Advanced-Sample-Exam\CS-OOP-Advanced-Exam-Prep-July-2016\obj\Debug\CS-OOP-Advanced-Exam-Prep-July-2016.csprojResolveAssemblyReference.cache
+C:\SoftUni\#1 Programming Fundamentals\C# OOP Advanced\10. CSharp-OOP-Advanced-Sample-Exam\CS-OOP-Advanced-Exam-Prep-July-2016\obj\Debug\CS-OOP-Advanced-Exam-Prep-July-2016.exe
+C:\SoftUni\#1 Programming Fundamentals\C# OOP Advanced\10. CSharp-OOP-Advanced-Sample-Exam\CS-OOP-Advanced-Exam-Prep-July-2016\obj\Debug\CS-OOP-Advanced-Exam-Prep-July-2016.pdb

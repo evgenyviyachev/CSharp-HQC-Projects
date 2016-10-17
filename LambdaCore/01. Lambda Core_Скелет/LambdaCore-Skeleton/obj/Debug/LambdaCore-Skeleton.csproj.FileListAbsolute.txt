@@ -1,0 +1,6 @@
+C:\SoftUni\#1 Programming Fundamentals\C# OOP Advanced\11. CSharp-OOP-Advanced-Sample-Exam\01. Lambda Core_Скелет\LambdaCore-Skeleton\bin\Debug\LambdaCore-Skeleton.exe.config
+C:\SoftUni\#1 Programming Fundamentals\C# OOP Advanced\11. CSharp-OOP-Advanced-Sample-Exam\01. Lambda Core_Скелет\LambdaCore-Skeleton\bin\Debug\LambdaCore-Skeleton.exe
+C:\SoftUni\#1 Programming Fundamentals\C# OOP Advanced\11. CSharp-OOP-Advanced-Sample-Exam\01. Lambda Core_Скелет\LambdaCore-Skeleton\bin\Debug\LambdaCore-Skeleton.pdb
+C:\SoftUni\#1 Programming Fundamentals\C# OOP Advanced\11. CSharp-OOP-Advanced-Sample-Exam\01. Lambda Core_Скелет\LambdaCore-Skeleton\obj\Debug\LambdaCore-Skeleton.csprojResolveAssemblyReference.cache
+C:\SoftUni\#1 Programming Fundamentals\C# OOP Advanced\11. CSharp-OOP-Advanced-Sample-Exam\01. Lambda Core_Скелет\LambdaCore-Skeleton\obj\Debug\LambdaCore-Skeleton.exe
+C:\SoftUni\#1 Programming Fundamentals\C# OOP Advanced\11. CSharp-OOP-Advanced-Sample-Exam\01. Lambda Core_Скелет\LambdaCore-Skeleton\obj\Debug\LambdaCore-Skeleton.pdb

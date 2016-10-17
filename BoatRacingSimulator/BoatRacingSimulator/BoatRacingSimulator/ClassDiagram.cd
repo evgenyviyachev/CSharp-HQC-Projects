@@ -1,0 +1,165 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="BoatRacingSimulator.Controllers.BoatSimulatorController" Collapsed="true">
+    <Position X="11.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEEAAAAGAAACIAAAAAAAggABEAACAAAAAAAQAgAAI=</HashCode>
+      <FileName>Controllers\BoatSimulatorController.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="BoatRacingSimulator.Core.CommandHandler" Collapsed="true">
+    <Position X="8" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Core\CommandHandler.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="BoatRacingSimulator.Core.Engine" Collapsed="true">
+    <Position X="9.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>Core\Engine.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BoatRacingSimulator.Database.BoatSimulatorDatabase" Collapsed="true">
+    <Position X="7.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Database\BoatSimulatorDatabase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BoatRacingSimulator.Database.Repository&lt;T&gt;" Collapsed="true">
+    <Position X="8" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAEAAAAAAA=</HashCode>
+      <FileName>Database\Repository.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="BoatRacingSimulator.Exceptions.DuplicateModelException" Collapsed="true">
+    <Position X="0.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Exceptions\DuplicateModelException.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BoatRacingSimulator.Exceptions.InsufficientContestantsException" Collapsed="true">
+    <Position X="2.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Exceptions\InsufficientContestantsException.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BoatRacingSimulator.Exceptions.NonExistantModelException" Collapsed="true">
+    <Position X="4" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Exceptions\NonExistantModelException.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BoatRacingSimulator.Exceptions.NoSetRaceException" Collapsed="true">
+    <Position X="0.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Exceptions\NoSetRaceException.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BoatRacingSimulator.Exceptions.RaceAlreadyExistsException" Collapsed="true">
+    <Position X="2.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Exceptions\RaceAlreadyExistsException.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BoatRacingSimulator.Models.BoatEngines.BoatEngine" Collapsed="true">
+    <Position X="5.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAAgRAAAIAAIAAAAAAAAAAAAAAgAAAAIAAA=</HashCode>
+      <FileName>Models\BoatEngines\BoatEngine.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="BoatRacingSimulator.Models.BoatEngines.JetEngine" Collapsed="true">
+    <Position X="4.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAIAABAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\BoatEngines\JetEngine.cs</FileName>
+      <NewMemberFileName>Models\BoatEngines\BoatEngine.cs</NewMemberFileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BoatRacingSimulator.Models.BoatEngines.SterndriveEngine" Collapsed="true">
+    <Position X="6.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAIAABAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\BoatEngines\SterndriveEngine.cs</FileName>
+      <NewMemberFileName>Models\BoatEngines\BoatEngine.cs</NewMemberFileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BoatRacingSimulator.Models.Race" Collapsed="true">
+    <Position X="9.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABIAAAAAAAAAAAAAggAEAAAABAAAAAAAIAAgA=</HashCode>
+      <FileName>Models\Race.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="BoatRacingSimulator.Utility.Constants" Collapsed="true">
+    <Position X="7.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAAAAAAAAAAgAAAAQAEgAAIAIAAAAABiAAAIA=</HashCode>
+      <FileName>Utility\Constants.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BoatRacingSimulator.Utility.Validator" Collapsed="true">
+    <Position X="9.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA=</HashCode>
+      <FileName>Utility\Validator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="BoatRacingSimulator.Interfaces.IBoatSimulatorController" Collapsed="true">
+    <Position X="0.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEEAAAAGAAACIAAAAAAAggABAAAAAAAAAAAQAgAAA=</HashCode>
+      <FileName>Interfaces\IBoatSimulatorController.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="BoatRacingSimulator.Interfaces.ICommandHandler" Collapsed="true">
+    <Position X="2.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\ICommandHandler.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="BoatRacingSimulator.Interfaces.IModelable" Collapsed="true">
+    <Position X="0.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAA=</HashCode>
+      <FileName>Interfaces\IModelable.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="BoatRacingSimulator.Interfaces.IRace" Collapsed="true">
+    <Position X="0.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABIAAAAAAAAAAAAAggAAAAAABAAAAAAAIAAAA=</HashCode>
+      <FileName>Interfaces\IRace.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="BoatRacingSimulator.Interfaces.IRepository&lt;T&gt;" Collapsed="true">
+    <Position X="2.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\IRepository.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="BoatRacingSimulator.Enumerations.EngineType" Collapsed="true">
+    <Position X="9.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAIAAAAAAAAAAAAAAACAAAAAAAAAAAA=</HashCode>
+      <FileName>Enumerations\EngineType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

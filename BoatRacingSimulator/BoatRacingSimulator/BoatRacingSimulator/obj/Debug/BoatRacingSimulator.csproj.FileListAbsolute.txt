@@ -1,0 +1,12 @@
+G:\SoftUni\SoftUni Work\test\Boat Racing\BoatRacingSimulatorBroken\BoatRacingSimulator\BoatRacingSimulator\bin\Debug\BoatRacingSimulator.exe.config
+G:\SoftUni\SoftUni Work\test\Boat Racing\BoatRacingSimulatorBroken\BoatRacingSimulator\BoatRacingSimulator\bin\Debug\BoatRacingSimulator.exe
+G:\SoftUni\SoftUni Work\test\Boat Racing\BoatRacingSimulatorBroken\BoatRacingSimulator\BoatRacingSimulator\bin\Debug\BoatRacingSimulator.pdb
+G:\SoftUni\SoftUni Work\test\Boat Racing\BoatRacingSimulatorBroken\BoatRacingSimulator\BoatRacingSimulator\obj\Debug\BoatRacingSimulator.csprojResolveAssemblyReference.cache
+G:\SoftUni\SoftUni Work\test\Boat Racing\BoatRacingSimulatorBroken\BoatRacingSimulator\BoatRacingSimulator\obj\Debug\BoatRacingSimulator.exe
+G:\SoftUni\SoftUni Work\test\Boat Racing\BoatRacingSimulatorBroken\BoatRacingSimulator\BoatRacingSimulator\obj\Debug\BoatRacingSimulator.pdb
+C:\SoftUni\#1 Programming Fundamentals\C# OOP Advanced\09. CSharp-OOP-Advanced-Workshop-Refactoring\BoatRacingSimulator\BoatRacingSimulator\bin\Debug\BoatRacingSimulator.exe.config
+C:\SoftUni\#1 Programming Fundamentals\C# OOP Advanced\09. CSharp-OOP-Advanced-Workshop-Refactoring\BoatRacingSimulator\BoatRacingSimulator\obj\Debug\BoatRacingSimulator.exe
+C:\SoftUni\#1 Programming Fundamentals\C# OOP Advanced\09. CSharp-OOP-Advanced-Workshop-Refactoring\BoatRacingSimulator\BoatRacingSimulator\obj\Debug\BoatRacingSimulator.pdb
+C:\SoftUni\#1 Programming Fundamentals\C# OOP Advanced\09. CSharp-OOP-Advanced-Workshop-Refactoring\BoatRacingSimulator\BoatRacingSimulator\bin\Debug\BoatRacingSimulator.exe
+C:\SoftUni\#1 Programming Fundamentals\C# OOP Advanced\09. CSharp-OOP-Advanced-Workshop-Refactoring\BoatRacingSimulator\BoatRacingSimulator\bin\Debug\BoatRacingSimulator.pdb
+C:\SoftUni\#1 Programming Fundamentals\C# OOP Advanced\09. CSharp-OOP-Advanced-Workshop-Refactoring\BoatRacingSimulator\BoatRacingSimulator\obj\Debug\BoatRacingSimulator.csprojResolveAssemblyReference.cache

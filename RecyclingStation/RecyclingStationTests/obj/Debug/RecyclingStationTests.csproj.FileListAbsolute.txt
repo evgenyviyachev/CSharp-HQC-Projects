@@ -1,0 +1,8 @@
+C:\SoftUni\#1 Programming Fundamentals\C# OOP Advanced\EXAM\RecyclingStationTests\bin\Debug\RecyclingStationTests.dll
+C:\SoftUni\#1 Programming Fundamentals\C# OOP Advanced\EXAM\RecyclingStationTests\bin\Debug\RecyclingStationTests.pdb
+C:\SoftUni\#1 Programming Fundamentals\C# OOP Advanced\EXAM\RecyclingStationTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\SoftUni\#1 Programming Fundamentals\C# OOP Advanced\EXAM\RecyclingStationTests\bin\Debug\RecyclingStation.exe
+C:\SoftUni\#1 Programming Fundamentals\C# OOP Advanced\EXAM\RecyclingStationTests\bin\Debug\RecyclingStation.pdb
+C:\SoftUni\#1 Programming Fundamentals\C# OOP Advanced\EXAM\RecyclingStationTests\obj\Debug\RecyclingStationTests.csprojResolveAssemblyReference.cache
+C:\SoftUni\#1 Programming Fundamentals\C# OOP Advanced\EXAM\RecyclingStationTests\obj\Debug\RecyclingStationTests.dll
+C:\SoftUni\#1 Programming Fundamentals\C# OOP Advanced\EXAM\RecyclingStationTests\obj\Debug\RecyclingStationTests.pdb
