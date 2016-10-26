@@ -1,0 +1,6 @@
+C:\SoftUni\#2 DB Fundamentals\DB Advanced\02. ADO.NET Advanced\MiniORM\MiniORM\bin\Debug\MiniORM.exe.config
+C:\SoftUni\#2 DB Fundamentals\DB Advanced\02. ADO.NET Advanced\MiniORM\MiniORM\bin\Debug\MiniORM.exe
+C:\SoftUni\#2 DB Fundamentals\DB Advanced\02. ADO.NET Advanced\MiniORM\MiniORM\bin\Debug\MiniORM.pdb
+C:\SoftUni\#2 DB Fundamentals\DB Advanced\02. ADO.NET Advanced\MiniORM\MiniORM\obj\Debug\MiniORM.csprojResolveAssemblyReference.cache
+C:\SoftUni\#2 DB Fundamentals\DB Advanced\02. ADO.NET Advanced\MiniORM\MiniORM\obj\Debug\MiniORM.exe
+C:\SoftUni\#2 DB Fundamentals\DB Advanced\02. ADO.NET Advanced\MiniORM\MiniORM\obj\Debug\MiniORM.pdb
