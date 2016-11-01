@@ -1,0 +1,6 @@
+C:\SoftUni\#1 Programming Fundamentals\C# OOP Advanced\CSharp-OOP-Advanced\HQC - 12.2015\SOLID Principles\Exercise\SOLID\bin\Debug\SOLID.exe.config
+C:\SoftUni\#1 Programming Fundamentals\C# OOP Advanced\CSharp-OOP-Advanced\HQC - 12.2015\SOLID Principles\Exercise\SOLID\bin\Debug\SOLID.exe
+C:\SoftUni\#1 Programming Fundamentals\C# OOP Advanced\CSharp-OOP-Advanced\HQC - 12.2015\SOLID Principles\Exercise\SOLID\bin\Debug\SOLID.pdb
+C:\SoftUni\#1 Programming Fundamentals\C# OOP Advanced\CSharp-OOP-Advanced\HQC - 12.2015\SOLID Principles\Exercise\SOLID\obj\Debug\01.Logger.csprojResolveAssemblyReference.cache
+C:\SoftUni\#1 Programming Fundamentals\C# OOP Advanced\CSharp-OOP-Advanced\HQC - 12.2015\SOLID Principles\Exercise\SOLID\obj\Debug\SOLID.exe
+C:\SoftUni\#1 Programming Fundamentals\C# OOP Advanced\CSharp-OOP-Advanced\HQC - 12.2015\SOLID Principles\Exercise\SOLID\obj\Debug\SOLID.pdb

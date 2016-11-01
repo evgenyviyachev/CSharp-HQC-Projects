@@ -1,0 +1,3 @@
+10/31/2016 10:17:22 PM - Error - Error parsing JSON.
+10/31/2016 10:17:22 PM - Info - User Pesho successfully registered.
+10/31/2016 10:17:22 PM - Warning - Warning - missing files.
