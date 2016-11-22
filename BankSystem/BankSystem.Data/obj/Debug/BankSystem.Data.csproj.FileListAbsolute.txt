@@ -1,0 +1,12 @@
+C:\SoftUni\#2 DB Fundamentals\DB Advanced\05. Relations\Ex\BankSystem\BankSystem.Data\bin\Debug\BankSystem.Data.dll.config
+C:\SoftUni\#2 DB Fundamentals\DB Advanced\05. Relations\Ex\BankSystem\BankSystem.Data\bin\Debug\BankSystem.Data.dll
+C:\SoftUni\#2 DB Fundamentals\DB Advanced\05. Relations\Ex\BankSystem\BankSystem.Data\bin\Debug\BankSystem.Data.pdb
+C:\SoftUni\#2 DB Fundamentals\DB Advanced\05. Relations\Ex\BankSystem\BankSystem.Data\bin\Debug\BankSystem.Models.dll
+C:\SoftUni\#2 DB Fundamentals\DB Advanced\05. Relations\Ex\BankSystem\BankSystem.Data\bin\Debug\EntityFramework.dll
+C:\SoftUni\#2 DB Fundamentals\DB Advanced\05. Relations\Ex\BankSystem\BankSystem.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\SoftUni\#2 DB Fundamentals\DB Advanced\05. Relations\Ex\BankSystem\BankSystem.Data\bin\Debug\BankSystem.Models.pdb
+C:\SoftUni\#2 DB Fundamentals\DB Advanced\05. Relations\Ex\BankSystem\BankSystem.Data\bin\Debug\EntityFramework.xml
+C:\SoftUni\#2 DB Fundamentals\DB Advanced\05. Relations\Ex\BankSystem\BankSystem.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\SoftUni\#2 DB Fundamentals\DB Advanced\05. Relations\Ex\BankSystem\BankSystem.Data\obj\Debug\BankSystem.Data.csprojResolveAssemblyReference.cache
+C:\SoftUni\#2 DB Fundamentals\DB Advanced\05. Relations\Ex\BankSystem\BankSystem.Data\obj\Debug\BankSystem.Data.dll
+C:\SoftUni\#2 DB Fundamentals\DB Advanced\05. Relations\Ex\BankSystem\BankSystem.Data\obj\Debug\BankSystem.Data.pdb

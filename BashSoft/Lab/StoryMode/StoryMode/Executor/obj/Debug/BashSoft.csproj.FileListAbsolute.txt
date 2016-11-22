@@ -4,3 +4,6 @@ C:\SoftUni\#1 Programming Fundamentals\C# OOP Advanced\BashSoft\Lab\StoryMode\St
 C:\SoftUni\#1 Programming Fundamentals\C# OOP Advanced\BashSoft\Lab\StoryMode\StoryMode\Executor\obj\Debug\BashSoft.csprojResolveAssemblyReference.cache
 C:\SoftUni\#1 Programming Fundamentals\C# OOP Advanced\BashSoft\Lab\StoryMode\StoryMode\Executor\obj\Debug\Executor.exe
 C:\SoftUni\#1 Programming Fundamentals\C# OOP Advanced\BashSoft\Lab\StoryMode\StoryMode\Executor\obj\Debug\Executor.pdb
+C:\SoftUni\#1 Programming Fundamentals\C# OOP Advanced\CSharp-HQC-Projects\BashSoft\Lab\StoryMode\StoryMode\Executor\bin\Debug\Executor.exe.config
+C:\SoftUni\#1 Programming Fundamentals\C# OOP Advanced\CSharp-HQC-Projects\BashSoft\Lab\StoryMode\StoryMode\Executor\obj\Debug\Executor.exe
+C:\SoftUni\#1 Programming Fundamentals\C# OOP Advanced\CSharp-HQC-Projects\BashSoft\Lab\StoryMode\StoryMode\Executor\obj\Debug\Executor.pdb

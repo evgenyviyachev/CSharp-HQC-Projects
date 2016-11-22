@@ -1,0 +1,5 @@
+C:\SoftUni\#2 DB Fundamentals\DB Advanced\05. Relations\Ex\BankSystem\BankSystem.Models\bin\Debug\BankSystem.Models.dll
+C:\SoftUni\#2 DB Fundamentals\DB Advanced\05. Relations\Ex\BankSystem\BankSystem.Models\bin\Debug\BankSystem.Models.pdb
+C:\SoftUni\#2 DB Fundamentals\DB Advanced\05. Relations\Ex\BankSystem\BankSystem.Models\obj\Debug\BankSystem.Models.csprojResolveAssemblyReference.cache
+C:\SoftUni\#2 DB Fundamentals\DB Advanced\05. Relations\Ex\BankSystem\BankSystem.Models\obj\Debug\BankSystem.Models.dll
+C:\SoftUni\#2 DB Fundamentals\DB Advanced\05. Relations\Ex\BankSystem\BankSystem.Models\obj\Debug\BankSystem.Models.pdb
