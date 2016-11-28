@@ -1,0 +1,1 @@
+C:\SoftUni\#2 DB Fundamentals\DB Advanced\Midterm EXAM\MassDefect.ConsoleClient\bin\Debug\MassDefect.ConsoleClient.exe.config

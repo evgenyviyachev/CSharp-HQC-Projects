@@ -1,0 +1,5 @@
+C:\SoftUni\#2 DB Fundamentals\DB Advanced\07. Best Practices & Architecture\Ex\PhotoShare\PhotoShare.Models\bin\Debug\PhotoShare.Models.dll
+C:\SoftUni\#2 DB Fundamentals\DB Advanced\07. Best Practices & Architecture\Ex\PhotoShare\PhotoShare.Models\bin\Debug\PhotoShare.Models.pdb
+C:\SoftUni\#2 DB Fundamentals\DB Advanced\07. Best Practices & Architecture\Ex\PhotoShare\PhotoShare.Models\obj\Debug\PhotoShare.Models.csprojResolveAssemblyReference.cache
+C:\SoftUni\#2 DB Fundamentals\DB Advanced\07. Best Practices & Architecture\Ex\PhotoShare\PhotoShare.Models\obj\Debug\PhotoShare.Models.dll
+C:\SoftUni\#2 DB Fundamentals\DB Advanced\07. Best Practices & Architecture\Ex\PhotoShare\PhotoShare.Models\obj\Debug\PhotoShare.Models.pdb

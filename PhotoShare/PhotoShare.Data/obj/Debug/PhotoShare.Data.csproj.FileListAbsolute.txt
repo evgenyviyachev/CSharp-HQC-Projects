@@ -1,0 +1,12 @@
+C:\SoftUni\#2 DB Fundamentals\DB Advanced\07. Best Practices & Architecture\Ex\PhotoShare\PhotoShare.Data\bin\Debug\PhotoShare.Data.dll.config
+C:\SoftUni\#2 DB Fundamentals\DB Advanced\07. Best Practices & Architecture\Ex\PhotoShare\PhotoShare.Data\bin\Debug\PhotoShare.Data.dll
+C:\SoftUni\#2 DB Fundamentals\DB Advanced\07. Best Practices & Architecture\Ex\PhotoShare\PhotoShare.Data\bin\Debug\PhotoShare.Data.pdb
+C:\SoftUni\#2 DB Fundamentals\DB Advanced\07. Best Practices & Architecture\Ex\PhotoShare\PhotoShare.Data\bin\Debug\EntityFramework.dll
+C:\SoftUni\#2 DB Fundamentals\DB Advanced\07. Best Practices & Architecture\Ex\PhotoShare\PhotoShare.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\SoftUni\#2 DB Fundamentals\DB Advanced\07. Best Practices & Architecture\Ex\PhotoShare\PhotoShare.Data\bin\Debug\PhotoShare.Models.dll
+C:\SoftUni\#2 DB Fundamentals\DB Advanced\07. Best Practices & Architecture\Ex\PhotoShare\PhotoShare.Data\bin\Debug\PhotoShare.Models.pdb
+C:\SoftUni\#2 DB Fundamentals\DB Advanced\07. Best Practices & Architecture\Ex\PhotoShare\PhotoShare.Data\bin\Debug\EntityFramework.xml
+C:\SoftUni\#2 DB Fundamentals\DB Advanced\07. Best Practices & Architecture\Ex\PhotoShare\PhotoShare.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\SoftUni\#2 DB Fundamentals\DB Advanced\07. Best Practices & Architecture\Ex\PhotoShare\PhotoShare.Data\obj\Debug\PhotoShare.Data.csprojResolveAssemblyReference.cache
+C:\SoftUni\#2 DB Fundamentals\DB Advanced\07. Best Practices & Architecture\Ex\PhotoShare\PhotoShare.Data\obj\Debug\PhotoShare.Data.dll
+C:\SoftUni\#2 DB Fundamentals\DB Advanced\07. Best Practices & Architecture\Ex\PhotoShare\PhotoShare.Data\obj\Debug\PhotoShare.Data.pdb

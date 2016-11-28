@@ -1,0 +1,17 @@
+C:\SoftUni\#2 DB Fundamentals\DB Advanced\Midterm EXAM\MassDefect.ConsoleClient\MassDefect.ConsoleDataImporter\bin\Debug\MassDefect.ConsoleDataImporter.exe.config
+C:\SoftUni\#2 DB Fundamentals\DB Advanced\Midterm EXAM\MassDefect\MassDefect.ConsoleDataImporter\bin\Debug\MassDefect.ConsoleDataImporter.exe.config
+C:\SoftUni\#2 DB Fundamentals\DB Advanced\Midterm EXAM\MassDefect\MassDefect.ConsoleDataImporter\bin\Debug\MassDefect.ConsoleDataImporter.exe
+C:\SoftUni\#2 DB Fundamentals\DB Advanced\Midterm EXAM\MassDefect\MassDefect.ConsoleDataImporter\bin\Debug\MassDefect.ConsoleDataImporter.pdb
+C:\SoftUni\#2 DB Fundamentals\DB Advanced\Midterm EXAM\MassDefect\MassDefect.ConsoleDataImporter\bin\Debug\EntityFramework.dll
+C:\SoftUni\#2 DB Fundamentals\DB Advanced\Midterm EXAM\MassDefect\MassDefect.ConsoleDataImporter\bin\Debug\EntityFramework.SqlServer.dll
+C:\SoftUni\#2 DB Fundamentals\DB Advanced\Midterm EXAM\MassDefect\MassDefect.ConsoleDataImporter\bin\Debug\MassDefect.Data.dll
+C:\SoftUni\#2 DB Fundamentals\DB Advanced\Midterm EXAM\MassDefect\MassDefect.ConsoleDataImporter\bin\Debug\MassDefect.Model.dll
+C:\SoftUni\#2 DB Fundamentals\DB Advanced\Midterm EXAM\MassDefect\MassDefect.ConsoleDataImporter\bin\Debug\Newtonsoft.Json.dll
+C:\SoftUni\#2 DB Fundamentals\DB Advanced\Midterm EXAM\MassDefect\MassDefect.ConsoleDataImporter\bin\Debug\MassDefect.Data.pdb
+C:\SoftUni\#2 DB Fundamentals\DB Advanced\Midterm EXAM\MassDefect\MassDefect.ConsoleDataImporter\bin\Debug\MassDefect.Model.pdb
+C:\SoftUni\#2 DB Fundamentals\DB Advanced\Midterm EXAM\MassDefect\MassDefect.ConsoleDataImporter\bin\Debug\EntityFramework.xml
+C:\SoftUni\#2 DB Fundamentals\DB Advanced\Midterm EXAM\MassDefect\MassDefect.ConsoleDataImporter\bin\Debug\EntityFramework.SqlServer.xml
+C:\SoftUni\#2 DB Fundamentals\DB Advanced\Midterm EXAM\MassDefect\MassDefect.ConsoleDataImporter\bin\Debug\Newtonsoft.Json.xml
+C:\SoftUni\#2 DB Fundamentals\DB Advanced\Midterm EXAM\MassDefect\MassDefect.ConsoleDataImporter\obj\Debug\MassDefect.ConsoleDataImporter.csprojResolveAssemblyReference.cache
+C:\SoftUni\#2 DB Fundamentals\DB Advanced\Midterm EXAM\MassDefect\MassDefect.ConsoleDataImporter\obj\Debug\MassDefect.ConsoleDataImporter.exe
+C:\SoftUni\#2 DB Fundamentals\DB Advanced\Midterm EXAM\MassDefect\MassDefect.ConsoleDataImporter\obj\Debug\MassDefect.ConsoleDataImporter.pdb

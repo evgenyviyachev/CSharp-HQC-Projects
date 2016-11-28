@@ -1,0 +1,17 @@
+C:\SoftUni\#2 DB Fundamentals\DB Advanced\Midterm EXAM\MassDefect\MassDefect.ConsoleInitializer\MassDefect.ConsoleXMLExporter\bin\Debug\MassDefect.ConsoleXMLExporter.exe.config
+C:\SoftUni\#2 DB Fundamentals\DB Advanced\Midterm EXAM\MassDefect\MassDefect.ConsoleInitializer\MassDefect.ConsoleXMLExporter\bin\Debug\MassDefect.ConsoleXMLExporter.exe
+C:\SoftUni\#2 DB Fundamentals\DB Advanced\Midterm EXAM\MassDefect\MassDefect.ConsoleInitializer\MassDefect.ConsoleXMLExporter\bin\Debug\MassDefect.ConsoleXMLExporter.pdb
+C:\SoftUni\#2 DB Fundamentals\DB Advanced\Midterm EXAM\MassDefect\MassDefect.ConsoleInitializer\MassDefect.ConsoleXMLExporter\bin\Debug\EntityFramework.dll
+C:\SoftUni\#2 DB Fundamentals\DB Advanced\Midterm EXAM\MassDefect\MassDefect.ConsoleInitializer\MassDefect.ConsoleXMLExporter\bin\Debug\EntityFramework.SqlServer.dll
+C:\SoftUni\#2 DB Fundamentals\DB Advanced\Midterm EXAM\MassDefect\MassDefect.ConsoleInitializer\MassDefect.ConsoleXMLExporter\bin\Debug\MassDefect.Data.dll
+C:\SoftUni\#2 DB Fundamentals\DB Advanced\Midterm EXAM\MassDefect\MassDefect.ConsoleInitializer\MassDefect.ConsoleXMLExporter\bin\Debug\MassDefect.Model.dll
+C:\SoftUni\#2 DB Fundamentals\DB Advanced\Midterm EXAM\MassDefect\MassDefect.ConsoleInitializer\MassDefect.ConsoleXMLExporter\bin\Debug\MassDefect.Data.pdb
+C:\SoftUni\#2 DB Fundamentals\DB Advanced\Midterm EXAM\MassDefect\MassDefect.ConsoleInitializer\MassDefect.ConsoleXMLExporter\bin\Debug\MassDefect.Model.pdb
+C:\SoftUni\#2 DB Fundamentals\DB Advanced\Midterm EXAM\MassDefect\MassDefect.ConsoleInitializer\MassDefect.ConsoleXMLExporter\bin\Debug\EntityFramework.xml
+C:\SoftUni\#2 DB Fundamentals\DB Advanced\Midterm EXAM\MassDefect\MassDefect.ConsoleInitializer\MassDefect.ConsoleXMLExporter\bin\Debug\EntityFramework.SqlServer.xml
+C:\SoftUni\#2 DB Fundamentals\DB Advanced\Midterm EXAM\MassDefect\MassDefect.ConsoleInitializer\MassDefect.ConsoleXMLExporter\obj\Debug\MassDefect.ConsoleXMLExporter.csprojResolveAssemblyReference.cache
+C:\SoftUni\#2 DB Fundamentals\DB Advanced\Midterm EXAM\MassDefect\MassDefect.ConsoleInitializer\MassDefect.ConsoleXMLExporter\obj\Debug\MassDefect.ConsoleXMLExporter.exe
+C:\SoftUni\#2 DB Fundamentals\DB Advanced\Midterm EXAM\MassDefect\MassDefect.ConsoleInitializer\MassDefect.ConsoleXMLExporter\obj\Debug\MassDefect.ConsoleXMLExporter.pdb
+C:\SoftUni\#2 DB Fundamentals\DB Advanced\Midterm EXAM\MassDefect\MassDefect.ConsoleXMLExporter\bin\Debug\MassDefect.ConsoleXMLExporter.exe.config
+C:\SoftUni\#2 DB Fundamentals\DB Advanced\Midterm EXAM\MassDefect\MassDefect.ConsoleXMLExporter\obj\Debug\MassDefect.ConsoleXMLExporter.exe
+C:\SoftUni\#2 DB Fundamentals\DB Advanced\Midterm EXAM\MassDefect\MassDefect.ConsoleXMLExporter\obj\Debug\MassDefect.ConsoleXMLExporter.pdb

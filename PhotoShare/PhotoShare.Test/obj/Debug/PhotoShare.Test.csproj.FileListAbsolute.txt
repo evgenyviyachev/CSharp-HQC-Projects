@@ -1,0 +1,14 @@
+C:\SoftUni\#2 DB Fundamentals\DB Advanced\07. Best Practices & Architecture\Ex\PhotoShare\PhotoShare.Test\bin\Debug\PhotoShare.Test.dll
+C:\SoftUni\#2 DB Fundamentals\DB Advanced\07. Best Practices & Architecture\Ex\PhotoShare\PhotoShare.Test\bin\Debug\PhotoShare.Test.pdb
+C:\SoftUni\#2 DB Fundamentals\DB Advanced\07. Best Practices & Architecture\Ex\PhotoShare\PhotoShare.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\SoftUni\#2 DB Fundamentals\DB Advanced\07. Best Practices & Architecture\Ex\PhotoShare\PhotoShare.Test\bin\Debug\PhotoShare.Client.exe
+C:\SoftUni\#2 DB Fundamentals\DB Advanced\07. Best Practices & Architecture\Ex\PhotoShare\PhotoShare.Test\bin\Debug\PhotoShare.Data.dll
+C:\SoftUni\#2 DB Fundamentals\DB Advanced\07. Best Practices & Architecture\Ex\PhotoShare\PhotoShare.Test\bin\Debug\PhotoShare.Models.dll
+C:\SoftUni\#2 DB Fundamentals\DB Advanced\07. Best Practices & Architecture\Ex\PhotoShare\PhotoShare.Test\bin\Debug\EntityFramework.dll
+C:\SoftUni\#2 DB Fundamentals\DB Advanced\07. Best Practices & Architecture\Ex\PhotoShare\PhotoShare.Test\bin\Debug\PhotoShare.Client.pdb
+C:\SoftUni\#2 DB Fundamentals\DB Advanced\07. Best Practices & Architecture\Ex\PhotoShare\PhotoShare.Test\bin\Debug\PhotoShare.Data.pdb
+C:\SoftUni\#2 DB Fundamentals\DB Advanced\07. Best Practices & Architecture\Ex\PhotoShare\PhotoShare.Test\bin\Debug\PhotoShare.Models.pdb
+C:\SoftUni\#2 DB Fundamentals\DB Advanced\07. Best Practices & Architecture\Ex\PhotoShare\PhotoShare.Test\bin\Debug\EntityFramework.xml
+C:\SoftUni\#2 DB Fundamentals\DB Advanced\07. Best Practices & Architecture\Ex\PhotoShare\PhotoShare.Test\obj\Debug\PhotoShare.Test.csprojResolveAssemblyReference.cache
+C:\SoftUni\#2 DB Fundamentals\DB Advanced\07. Best Practices & Architecture\Ex\PhotoShare\PhotoShare.Test\obj\Debug\PhotoShare.Test.dll
+C:\SoftUni\#2 DB Fundamentals\DB Advanced\07. Best Practices & Architecture\Ex\PhotoShare\PhotoShare.Test\obj\Debug\PhotoShare.Test.pdb

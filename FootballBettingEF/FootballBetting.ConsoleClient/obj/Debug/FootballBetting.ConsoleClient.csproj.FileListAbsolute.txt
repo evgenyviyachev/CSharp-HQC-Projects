@@ -1,0 +1,14 @@
+C:\SoftUni\#2 DB Fundamentals\DB Advanced\05. Relations\Ex\FootballBetting\FootballBetting.ConsoleClient\bin\Debug\FootballBetting.ConsoleClient.exe.config
+C:\SoftUni\#2 DB Fundamentals\DB Advanced\05. Relations\Ex\FootballBetting\FootballBetting.ConsoleClient\bin\Debug\FootballBetting.ConsoleClient.exe
+C:\SoftUni\#2 DB Fundamentals\DB Advanced\05. Relations\Ex\FootballBetting\FootballBetting.ConsoleClient\bin\Debug\FootballBetting.ConsoleClient.pdb
+C:\SoftUni\#2 DB Fundamentals\DB Advanced\05. Relations\Ex\FootballBetting\FootballBetting.ConsoleClient\bin\Debug\EntityFramework.dll
+C:\SoftUni\#2 DB Fundamentals\DB Advanced\05. Relations\Ex\FootballBetting\FootballBetting.ConsoleClient\bin\Debug\EntityFramework.SqlServer.dll
+C:\SoftUni\#2 DB Fundamentals\DB Advanced\05. Relations\Ex\FootballBetting\FootballBetting.ConsoleClient\bin\Debug\FootballBetting.Data.dll
+C:\SoftUni\#2 DB Fundamentals\DB Advanced\05. Relations\Ex\FootballBetting\FootballBetting.ConsoleClient\bin\Debug\FootballBetting.Models.dll
+C:\SoftUni\#2 DB Fundamentals\DB Advanced\05. Relations\Ex\FootballBetting\FootballBetting.ConsoleClient\bin\Debug\FootballBetting.Data.pdb
+C:\SoftUni\#2 DB Fundamentals\DB Advanced\05. Relations\Ex\FootballBetting\FootballBetting.ConsoleClient\bin\Debug\FootballBetting.Models.pdb
+C:\SoftUni\#2 DB Fundamentals\DB Advanced\05. Relations\Ex\FootballBetting\FootballBetting.ConsoleClient\bin\Debug\EntityFramework.xml
+C:\SoftUni\#2 DB Fundamentals\DB Advanced\05. Relations\Ex\FootballBetting\FootballBetting.ConsoleClient\bin\Debug\EntityFramework.SqlServer.xml
+C:\SoftUni\#2 DB Fundamentals\DB Advanced\05. Relations\Ex\FootballBetting\FootballBetting.ConsoleClient\obj\Debug\FootballBetting.ConsoleClient.csprojResolveAssemblyReference.cache
+C:\SoftUni\#2 DB Fundamentals\DB Advanced\05. Relations\Ex\FootballBetting\FootballBetting.ConsoleClient\obj\Debug\FootballBetting.ConsoleClient.exe
+C:\SoftUni\#2 DB Fundamentals\DB Advanced\05. Relations\Ex\FootballBetting\FootballBetting.ConsoleClient\obj\Debug\FootballBetting.ConsoleClient.pdb
