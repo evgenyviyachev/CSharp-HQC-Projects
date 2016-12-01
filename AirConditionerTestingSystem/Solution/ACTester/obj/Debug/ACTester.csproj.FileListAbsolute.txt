@@ -1,0 +1,34 @@
+C:\SoftUni\#2 DB Fundamentals\DB Advanced\10. Workshop\AirConditionerTestingSystem\Solution\ACTester\bin\Debug\ACTester.exe.config
+C:\SoftUni\#2 DB Fundamentals\DB Advanced\10. Workshop\AirConditionerTestingSystem\Solution\ACTester\obj\Debug\ACTester.csprojResolveAssemblyReference.cache
+C:\SoftUni\#2 DB Fundamentals\DB Advanced\10. Workshop\AirConditionerTestingSystem\Solution\ACTester\bin\Debug\ACTester.exe
+C:\SoftUni\#2 DB Fundamentals\DB Advanced\10. Workshop\AirConditionerTestingSystem\Solution\ACTester\bin\Debug\ACTester.pdb
+C:\SoftUni\#2 DB Fundamentals\DB Advanced\10. Workshop\AirConditionerTestingSystem\Solution\ACTester\bin\Debug\ACTester.Data.dll
+C:\SoftUni\#2 DB Fundamentals\DB Advanced\10. Workshop\AirConditionerTestingSystem\Solution\ACTester\bin\Debug\ACTester.Models.dll
+C:\SoftUni\#2 DB Fundamentals\DB Advanced\10. Workshop\AirConditionerTestingSystem\Solution\ACTester\bin\Debug\ACTester.Utilities.dll
+C:\SoftUni\#2 DB Fundamentals\DB Advanced\10. Workshop\AirConditionerTestingSystem\Solution\ACTester\bin\Debug\EntityFramework.dll
+C:\SoftUni\#2 DB Fundamentals\DB Advanced\10. Workshop\AirConditionerTestingSystem\Solution\ACTester\bin\Debug\EntityFramework.SqlServer.dll
+C:\SoftUni\#2 DB Fundamentals\DB Advanced\10. Workshop\AirConditionerTestingSystem\Solution\ACTester\bin\Debug\ACTester.Data.pdb
+C:\SoftUni\#2 DB Fundamentals\DB Advanced\10. Workshop\AirConditionerTestingSystem\Solution\ACTester\bin\Debug\ACTester.Models.pdb
+C:\SoftUni\#2 DB Fundamentals\DB Advanced\10. Workshop\AirConditionerTestingSystem\Solution\ACTester\bin\Debug\ACTester.Utilities.pdb
+C:\SoftUni\#2 DB Fundamentals\DB Advanced\10. Workshop\AirConditionerTestingSystem\Solution\ACTester\bin\Debug\EntityFramework.xml
+C:\SoftUni\#2 DB Fundamentals\DB Advanced\10. Workshop\AirConditionerTestingSystem\Solution\ACTester\bin\Debug\EntityFramework.SqlServer.xml
+C:\SoftUni\#2 DB Fundamentals\DB Advanced\10. Workshop\AirConditionerTestingSystem\Solution\ACTester\obj\Debug\ACTester.exe
+C:\SoftUni\#2 DB Fundamentals\DB Advanced\10. Workshop\AirConditionerTestingSystem\Solution\ACTester\obj\Debug\ACTester.pdb
+C:\SoftUni\#2 DB Fundamentals\DB Advanced\11. Auto Mapping Objects\AirConditionerTestingSystem\Solution\ACTester\bin\Debug\ACTester.exe.config
+C:\SoftUni\#2 DB Fundamentals\DB Advanced\11. Auto Mapping Objects\AirConditionerTestingSystem\Solution\ACTester\obj\Debug\ACTester.exe
+C:\SoftUni\#2 DB Fundamentals\DB Advanced\11. Auto Mapping Objects\AirConditionerTestingSystem\Solution\ACTester\obj\Debug\ACTester.pdb
+C:\SoftUni\#2 DB Fundamentals\DB Advanced\11. Auto Mapping Objects\AirConditionerTestingSystem\Solution\ACTester\bin\Debug\ACTester.exe
+C:\SoftUni\#2 DB Fundamentals\DB Advanced\11. Auto Mapping Objects\AirConditionerTestingSystem\Solution\ACTester\bin\Debug\ACTester.pdb
+C:\SoftUni\#2 DB Fundamentals\DB Advanced\11. Auto Mapping Objects\AirConditionerTestingSystem\Solution\ACTester\bin\Debug\ACTester.Data.dll
+C:\SoftUni\#2 DB Fundamentals\DB Advanced\11. Auto Mapping Objects\AirConditionerTestingSystem\Solution\ACTester\bin\Debug\ACTester.Models.dll
+C:\SoftUni\#2 DB Fundamentals\DB Advanced\11. Auto Mapping Objects\AirConditionerTestingSystem\Solution\ACTester\bin\Debug\ACTester.Utilities.dll
+C:\SoftUni\#2 DB Fundamentals\DB Advanced\11. Auto Mapping Objects\AirConditionerTestingSystem\Solution\ACTester\bin\Debug\AutoMapper.dll
+C:\SoftUni\#2 DB Fundamentals\DB Advanced\11. Auto Mapping Objects\AirConditionerTestingSystem\Solution\ACTester\bin\Debug\EntityFramework.dll
+C:\SoftUni\#2 DB Fundamentals\DB Advanced\11. Auto Mapping Objects\AirConditionerTestingSystem\Solution\ACTester\bin\Debug\EntityFramework.SqlServer.dll
+C:\SoftUni\#2 DB Fundamentals\DB Advanced\11. Auto Mapping Objects\AirConditionerTestingSystem\Solution\ACTester\bin\Debug\ACTester.Data.pdb
+C:\SoftUni\#2 DB Fundamentals\DB Advanced\11. Auto Mapping Objects\AirConditionerTestingSystem\Solution\ACTester\bin\Debug\ACTester.Models.pdb
+C:\SoftUni\#2 DB Fundamentals\DB Advanced\11. Auto Mapping Objects\AirConditionerTestingSystem\Solution\ACTester\bin\Debug\ACTester.Utilities.pdb
+C:\SoftUni\#2 DB Fundamentals\DB Advanced\11. Auto Mapping Objects\AirConditionerTestingSystem\Solution\ACTester\bin\Debug\AutoMapper.xml
+C:\SoftUni\#2 DB Fundamentals\DB Advanced\11. Auto Mapping Objects\AirConditionerTestingSystem\Solution\ACTester\bin\Debug\EntityFramework.xml
+C:\SoftUni\#2 DB Fundamentals\DB Advanced\11. Auto Mapping Objects\AirConditionerTestingSystem\Solution\ACTester\bin\Debug\EntityFramework.SqlServer.xml
+C:\SoftUni\#2 DB Fundamentals\DB Advanced\11. Auto Mapping Objects\AirConditionerTestingSystem\Solution\ACTester\obj\Debug\ACTester.csprojResolveAssemblyReference.cache

@@ -1,0 +1,7 @@
+C:\SoftUni\#2 DB Fundamentals\DB Advanced\10. Workshop\AirConditionerTestingSystem\Solution\ACTester.Models\bin\Debug\ACTester.Models.dll
+C:\SoftUni\#2 DB Fundamentals\DB Advanced\10. Workshop\AirConditionerTestingSystem\Solution\ACTester.Models\bin\Debug\ACTester.Models.pdb
+C:\SoftUni\#2 DB Fundamentals\DB Advanced\10. Workshop\AirConditionerTestingSystem\Solution\ACTester.Models\bin\Debug\ACTester.Utilities.dll
+C:\SoftUni\#2 DB Fundamentals\DB Advanced\10. Workshop\AirConditionerTestingSystem\Solution\ACTester.Models\bin\Debug\ACTester.Utilities.pdb
+C:\SoftUni\#2 DB Fundamentals\DB Advanced\10. Workshop\AirConditionerTestingSystem\Solution\ACTester.Models\obj\Debug\ACTester.Models.csprojResolveAssemblyReference.cache
+C:\SoftUni\#2 DB Fundamentals\DB Advanced\10. Workshop\AirConditionerTestingSystem\Solution\ACTester.Models\obj\Debug\ACTester.Models.dll
+C:\SoftUni\#2 DB Fundamentals\DB Advanced\10. Workshop\AirConditionerTestingSystem\Solution\ACTester.Models\obj\Debug\ACTester.Models.pdb
