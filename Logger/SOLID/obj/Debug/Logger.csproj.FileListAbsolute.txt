@@ -1,0 +1,6 @@
+C:\SoftUni\#1 Programming Fundamentals\C# OOP Advanced\CSharp-HQC-Projects\Logger\SOLID\bin\Debug\SOLID.exe.config
+C:\SoftUni\#1 Programming Fundamentals\C# OOP Advanced\CSharp-HQC-Projects\Logger\SOLID\obj\Debug\SOLID.exe
+C:\SoftUni\#1 Programming Fundamentals\C# OOP Advanced\CSharp-HQC-Projects\Logger\SOLID\obj\Debug\SOLID.pdb
+C:\SoftUni\#1 Programming Fundamentals\C# OOP Advanced\CSharp-HQC-Projects\Logger\SOLID\bin\Debug\SOLID.exe
+C:\SoftUni\#1 Programming Fundamentals\C# OOP Advanced\CSharp-HQC-Projects\Logger\SOLID\bin\Debug\SOLID.pdb
+C:\SoftUni\#1 Programming Fundamentals\C# OOP Advanced\CSharp-HQC-Projects\Logger\SOLID\obj\Debug\Logger.csprojResolveAssemblyReference.cache

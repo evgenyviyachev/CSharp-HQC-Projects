@@ -2,6 +2,7 @@
 {
     public interface ILogger
     {
+        IAppender[] Appenders { get; set; }
         void Info(string message);
         void Error(string message);
         void Warn(string message);
